@@ -15,3 +15,4 @@ dimwishlist:item=266021826&perks=1476923952,1476923956
 // Stoicism
 //notes:47alphatango : "PvP rolls"
 dimwishlist:item=266021826&perks=1476923954,1476923956
+dimwishlist:item=266021826&perks=1476923952,1476923956
