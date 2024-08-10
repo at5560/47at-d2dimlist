@@ -1,0 +1,12 @@
+title:47alphatango's personal list - PvE
+description: alpha's desired, possibly off-brand, rolls and stuff that just feels nice, used for quick and easy triage and tracking
+
+// Stoicism
+dimwishlist:item=266021826&perks=1476923953,1476923956
+dimwishlist:item=266021826&perks=1476923953,1476923955
+dimwishlist:item=266021826&perks=3573490509,1476923956
+dimwishlist:item=266021826&perks=3573490510,3573490506
+dimwishlist:item=266021826&perks=1476923953,1476923957
+dimwishlist:item=266021826&perks=3573490509,3573490504
+dimwishlist:item=266021826&perks=1476923953,3573490504
+dimwishlist:item=266021826&perks=1476923952,1476923956

@@ -1,0 +1,4 @@
+title:47alphatango's personal list - PvP
+description: alpha's desired, possibly off-brand, rolls and stuff that just feels nice, used for quick and easy triage and tracking
+
+dimwishlist:item=266021826&perks=1476923954,1476923956
