@@ -1,5 +1,5 @@
 title:47alphatango's personal list
-description: alpha's desired, possibly off-brand, rolls and stuff that just feels nice, used for quick and easy triage and tracking
+description: alpha's desired, possibly off-brand, rolls and stuff that just feel nice, used for quick and easy triage and tracking
 
 // Stoicism
 //notes:47alphatango : "PvE rolls"
